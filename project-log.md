@@ -21,3 +21,12 @@ preserves how it changes.
 - The Notion brief disagreed with Ogma2's decisions (see the entry above's
   seed). Fixed in Notion the same evening, so the "Known discrepancy" section
   leaves `current-system.md`.
+
+## 22 November 2026: brought in line with Ogma2's later decisions
+
+- Seán asked for every avionics brief to match the latest decisions. Checked
+  the Notion brief and this repository against Ogma2's decisions up to
+  D-22Nov.30 and fixed what had gone stale: USB-C stays at the av-bay, not the
+  panel (D-21Nov.4); the arm-switch headers (D-21Nov.12); the umbilical's
+  Churro end, J801 (D-22Nov.6); the PROP and ACT branches retry after a fault
+  and limit at 19.4 A minimum (D-22Nov.4), whichever of these applies here.

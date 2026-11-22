@@ -29,7 +29,7 @@ owner's agreement and a row in both repositories.
 | --- | --- | --- |
 | Burrito | CAN bus 2 only, on Burrito's flight MCU FDCAN2: Gecko 3-way, 500 kbit/s Classical CAN, fixed resistors at both ends. Burrito sends Safe, Active or Abort with a counter at 10–20 Hz; a stale message counts as Safe. Slow flight state goes out, health comes back. Burrito gives permission, never commands; the loop runs on Salsa. | [D-5Nov.3](https://github.com/ULAS-HiPR/Ogma2/blob/main/decisions.md), [D-5Nov.2](https://github.com/ULAS-HiPR/Ogma2/blob/main/decisions.md) |
 | Churro | Power from Churro's ACT branch off the 6S actuator pack, with Salsa's arm key in series. Salsa converts to its actuators' voltages itself. | [D-21Nov.1](https://github.com/ULAS-HiPR/Ogma2/blob/main/decisions.md) |
-| Access panel | Arm key and one USB-C at the panel; no firmware over CAN. | [D-19Nov.9](https://github.com/ULAS-HiPR/Ogma2/blob/main/decisions.md) |
+| Access panel | Arm key at the panel. One USB-C, kept at the av-bay, never used on the rail; no firmware over CAN. | [D-19Nov.9](https://github.com/ULAS-HiPR/Ogma2/blob/main/decisions.md), [D-21Nov.4](https://github.com/ULAS-HiPR/Ogma2/blob/main/decisions.md) |
 
 ## Also known
 
