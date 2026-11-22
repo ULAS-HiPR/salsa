@@ -1,6 +1,6 @@
 # Salsa
 
-HiPR's the active control board for RCS and grid fins. Owner: Nooner (Seán Noone). Helpers: Anav, Richard.
+HiPR's active control board for RCS and grid fins. Owner: Nooner (Seán Noone). Helpers: Anav, Richard.
 Nothing is designed, built or flown yet.
 
 **Start here:** [current system](current-system.md) → [decisions](decisions.md) → [Notion brief](https://app.notion.com/p/3e3cc5f72fe28132960ad0d28a1006ff).

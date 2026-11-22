@@ -15,3 +15,9 @@ preserves how it changes.
   can own, and the open questions (as Open rows in `decisions.md`).
 - Owner: Nooner (Seán Noone). Helpers: Anav, Richard.
 - Discussion lives in the Salsa post in Discord's avionics-projects forum.
+
+## 22 November 2026: Notion brief brought in line
+
+- The Notion brief disagreed with Ogma2's decisions (see the entry above's
+  seed). Fixed in Notion the same evening, so the "Known discrepancy" section
+  leaves `current-system.md`.

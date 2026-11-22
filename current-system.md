@@ -6,8 +6,7 @@ what is true now. Nothing is designed, built or flown yet.
 Owner: Nooner (Seán Noone). Helpers: Anav, Richard. Next milestone: Requirements captured by 14 Dec.
 
 Seeded from the [Notion brief](https://app.notion.com/p/3e3cc5f72fe28132960ad0d28a1006ff) and from Ogma2's decisions as they stood on
-22 November. Where they disagree, Ogma2's decisions win, and the difference is
-listed below.
+22 November. Where they disagree, Ogma2's decisions win.
 
 ## Purpose
 
@@ -47,10 +46,6 @@ LV-0650–0700, active control: allowed uses only; stable with the actuators loc
 3. Bus 2 and the safety logic: the transceiver, Safe/Active/Abort, the stale timeout, dormancy, the abort latch
 4. Sensing and the loop: IMU, magnetometer, the control law with Radion, the RocketPy scripts
 5. The bench rig and the eight tests
-
-## Known discrepancy
-
-The Notion brief (edited 20 Nov) still says Salsa has its own pack and takes no power from Churro in flight. Ogma2's D-21Nov.1 replaced that: power comes from Churro's ACT branch with the arm key in series. This repository follows D-21Nov.1; the Notion page needs the same fix.
 
 ## Timeline
 
